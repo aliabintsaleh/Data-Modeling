@@ -46,10 +46,3 @@ The final model view was designed following analytical database best practices:
 
 ---
 
-## 📸 Model Visualization
-*(Below is a screenshot of the relationship diagram showcasing the engineered Snowflake Schema architecture)*
-
-![Sales Data Model Screenshot](https://unsplash.com) 
-*(💡 **Note:** Replace this placeholder link with your actual Model View screenshot after uploading it to your GitHub repository).*
-الملف الآن جاهز للرفع!
-عندما تنتهي من رفعه وتأخذ لقطة شاشة لنموذج العلاقات، هل ترغب في أن نكتب منشور LinkedIn الاحترافي لتعلن فيه عن إطلاق المشروع وتبهر به شبكة علاقاتك ومسؤولي التوظيف؟
